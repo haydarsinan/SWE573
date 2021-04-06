@@ -41,7 +41,7 @@
 - *The users shall be able to save the documents they found on their account.*
 - *The system shall give notification when a new document added to PubMed database related to previous searches of the user.*
 
-#####2.3 Non-Functional Requirements
+##### 2.3 Non-Functional Requirements
 - *The application shall need a disc space less than 1 gb.*
 - *The response time for a search shall be less than 10 seconds.*
 - *The application shall be available on the cloud for 7/24 service.*
